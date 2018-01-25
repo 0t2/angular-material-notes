@@ -10,10 +10,10 @@
 
 ## [Day 04 - MatButton、MatButtonToggle和MatRipple]
 ### [Button]
-<iframe style="border:none" width="100%" height="350px" src="https://stackblitz.com/edit/angular-material-button?embed=1&file=app/app.component.ts"></iframe>
+<iframe style="border:none" width="100%" height="350px" src="https://stackblitz.com/edit/angular-material-button?ctl=1&embed=1&file=app/app.component.ts"></iframe>
 
 ### [Button toggle]
-<iframe style="border:none" width="100%" height="350px" src="https://stackblitz.com/edit/angular-material-button-toggle?embed=1&file=app/app.component.ts"></iframe>
+<iframe style="border:none" width="100%" height="350px" src="https://stackblitz.com/edit/angular-material-button-toggle?ctl=1&embed=1&file=app/app.component.ts"></iframe>
 
 [Icon]: https://material.angular.io/components/icon/overview
 [Material icons]: https://material.io/icons/
