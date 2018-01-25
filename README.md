@@ -5,7 +5,7 @@
 - [Angular - PRESS KIT]
 - [core-icon-set.svg]
 
-
+<iframe style="border:none" width="100%" height="350px" src="https://stackblitz.com/edit/angular-material-icon?ctl=1&embed=1&file=app/app.component.ts"></iframe>
 
 [Icon]: https://material.angular.io/components/icon/overview
 [Angular - PRESS KIT]: https://angular.io/presskit
